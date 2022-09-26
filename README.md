@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Utsav Jha
+- 👀 I’m interested in programming web, app, & blockchain.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on my future projects.
+- 📫 How to reach me: https://linktr.ee/nerd_utsav_jha
